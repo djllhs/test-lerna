@@ -1,5 +1,6 @@
-import dtoTypes from './dtoTypes';
+import dtoTypes, { formatPackage } from './dtoTypes';
 
 export {
-  dtoTypes
+  dtoTypes,
+  formatPackage
 }

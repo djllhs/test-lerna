@@ -1,4 +1,4 @@
-export default class dtoTypes {
+export default const dtoTypes = {
   // 套餐版本
   formatPackage: type => {
     return { 0: '基础版', 1: '高级版', 2: '企业版' }[+type];
