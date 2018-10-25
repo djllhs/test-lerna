@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "changelog": {
+    "repo": "djllhs/test-lerna",
+    "labels": {
+      "bug": "Bug fix",
+      "enhancement": "Enhancement"
+    },
+    "cacheDir": ".changelog"
+  }
+}
